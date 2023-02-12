@@ -1,9 +1,9 @@
 using System;
-using BookListMVC.Models;
+using WebApplication2.Models;
 using Microsoft.EntityFrameworkCore;
 
 
-namespace BookListMVC
+namespace WebApplication2
 {
     public class Startup
     {
